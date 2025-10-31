@@ -1,0 +1,80 @@
+{
+  "targetAngle": 0.0,
+  "quicksaves": [
+    {
+      "name": "Autosave 2025-10-31 01_09_52",
+      "time": "2025-10-31T05:09:53.0080456Z"
+    },
+    {
+      "name": "Autosave 2025-10-31 01_26_22",
+      "time": "2025-10-31T05:26:22.8177410Z"
+    },
+    {
+      "name": "Autosave 2025-10-31 01_36_57",
+      "time": "2025-10-31T05:36:57.9408939Z"
+    },
+    {
+      "name": "Autosave 2025-10-31 02_42_56",
+      "time": "2025-10-31T06:42:56.5819618Z"
+    },
+    {
+      "name": "Autosave 2025-10-31 03_05_17",
+      "time": "2025-10-31T07:05:17.7285813Z"
+    }
+  ],
+  "navTarget": null,
+  "timewarpSpeed": 1.0,
+  "worldTime": 1035216.6028770295,
+  "sceneName": "World_PC",
+  "transferWindowDeltaV": null,
+  "missionStatus": null,
+  "fuelBarGroups": [
+    {
+      "type": "Hydrazine",
+      "current": 1.95,
+      "max": 1.95,
+      "percent": 1.0
+    },
+    {
+      "type": "Electricity_Resource",
+      "current": 387.5,
+      "max": 387.5,
+      "percent": 1.0
+    }
+  ],
+  "mass": 3.75,
+  "thrust": 0.0,
+  "maxThrust": 1.5,
+  "TWR": 0.0,
+  "distToApoapsis": null,
+  "distToPeriapsis": null,
+  "timeToApoapsis": null,
+  "timeToPeriapsis": null,
+  "inertia": {
+    "inertia": 1.18279564,
+    "angularVelocity": -3.58020742e-07,
+    "angularDrag": 0.0,
+    "rotation": 3.895248e-05,
+    "centerOfMass": {
+      "x": -0.233333334,
+      "y": 0.312666774
+    }
+  },
+  "gravity": {
+    "gravityX": -0.0005681851701525415,
+    "gravityY": -9.79991470957694,
+    "gravityMagnitude": 9.799914726048225
+  },
+  "landingPoint": {
+    "success": true,
+    "landingPoint": {
+      "x": 365.265,
+      "y": 6299999.0,
+      "angle": 89.99667807189816,
+      "radius": 6299999.0,
+      "height": -1.0
+    },
+    "planet": "Earth",
+    "steps": 25
+  }
+}
