@@ -23,11 +23,11 @@
       "semiMajorAxis": 1880000000.0,
       "argumentOfPeriapsis": 0.0,
       "direction": 1,
-      "currentTrueAnomaly": 106.33991016504939,
-      "currentPositionAngle": 106.33991016504937,
-      "currentVelocityAngle": 16.339910165049375,
-      "currentRadius": 1880000000.0000002,
-      "currentVelocity": 8039.794641179614
+      "currentTrueAnomaly": 106.33276263630229,
+      "currentPositionAngle": 106.33276263630229,
+      "currentVelocityAngle": 16.33276263630228,
+      "currentRadius": 1880000000.0,
+      "currentVelocity": 8039.794641179613
     }
   },
   {
@@ -54,9 +54,9 @@
       "semiMajorAxis": 23460000.0,
       "argumentOfPeriapsis": 0.0,
       "direction": 1,
-      "currentTrueAnomaly": -122.22151486450905,
-      "currentPositionAngle": -122.22151486450905,
-      "currentVelocityAngle": 147.77848513549097,
+      "currentTrueAnomaly": -122.31625414709475,
+      "currentPositionAngle": -122.31625414709475,
+      "currentVelocityAngle": 147.68374585290528,
       "currentRadius": 23460000.0,
       "currentVelocity": 1329.8090838494415
     }
@@ -88,10 +88,10 @@
       "semiMajorAxis": 149600000000.0,
       "argumentOfPeriapsis": 0.0,
       "direction": 1,
-      "currentTrueAnomaly": -11.21856903784437,
-      "currentPositionAngle": -11.218569037844372,
-      "currentVelocityAngle": -101.21856903784438,
-      "currentRadius": 149600000000.0,
+      "currentTrueAnomaly": -11.2188851500272,
+      "currentPositionAngle": -11.2188851500272,
+      "currentVelocityAngle": -101.2188851500272,
+      "currentRadius": 149599999999.99997,
       "currentVelocity": 28294.63025070418
     }
   },
@@ -119,10 +119,10 @@
       "semiMajorAxis": 670900000.0,
       "argumentOfPeriapsis": 0.0,
       "direction": 1,
-      "currentTrueAnomaly": -109.87743342234053,
-      "currentPositionAngle": -109.87743342234052,
-      "currentVelocityAngle": 160.1225665776595,
-      "currentRadius": 670900000.0000001,
+      "currentTrueAnomaly": -109.91096129488221,
+      "currentPositionAngle": -109.91096129488221,
+      "currentVelocityAngle": 160.0890387051178,
+      "currentRadius": 670900000.0,
       "currentVelocity": 13458.448112891512
     }
   },
@@ -150,10 +150,10 @@
       "semiMajorAxis": 1070400000.0,
       "argumentOfPeriapsis": 0.0,
       "direction": 1,
-      "currentTrueAnomaly": 129.56816584655746,
-      "currentPositionAngle": 129.56816584655746,
-      "currentVelocityAngle": 39.56816584655745,
-      "currentRadius": 1070400000.0,
+      "currentTrueAnomaly": 129.55152890335305,
+      "currentPositionAngle": 129.55152890335305,
+      "currentVelocityAngle": 39.551528903353045,
+      "currentRadius": 1070399999.9999999,
       "currentVelocity": 10654.935626917315
     }
   },
@@ -181,10 +181,10 @@
       "semiMajorAxis": 421700000.0,
       "argumentOfPeriapsis": 0.0,
       "direction": 1,
-      "currentTrueAnomaly": 132.27935604398579,
-      "currentPositionAngle": 132.27935604398579,
-      "currentVelocityAngle": 42.27935521996038,
-      "currentRadius": 421700000.0,
+      "currentTrueAnomaly": 132.21207584254063,
+      "currentPositionAngle": 132.21207584254063,
+      "currentVelocityAngle": 42.21207501851521,
+      "currentRadius": 421699999.99999994,
       "currentVelocity": 16975.48065076917
     }
   },
@@ -217,11 +217,11 @@
       "semiMajorAxis": 778600000000.0,
       "argumentOfPeriapsis": 0.0,
       "direction": 1,
-      "currentTrueAnomaly": -0.9448508456592233,
-      "currentPositionAngle": -0.9448508456592233,
-      "currentVelocityAngle": -90.94485084565922,
+      "currentTrueAnomaly": -0.9448774692741566,
+      "currentPositionAngle": -0.9448774692741566,
+      "currentVelocityAngle": -90.94487746927418,
       "currentRadius": 778600000000.0,
-      "currentVelocity": 12402.59665111356
+      "currentVelocity": 12402.596651113558
     }
   },
   {
@@ -315,11 +315,11 @@
       "semiMajorAxis": 227900000000.0,
       "argumentOfPeriapsis": 286.0,
       "direction": 1,
-      "currentTrueAnomaly": -7.32547689956814,
-      "currentPositionAngle": -81.32547911502907,
-      "currentVelocityAngle": -170.6608761684278,
-      "currentRadius": 205262307533.4589,
-      "currentVelocity": 25326.757396969533
+      "currentTrueAnomaly": -7.3256831096772626,
+      "currentPositionAngle": -81.32568532513818,
+      "currentVelocityAngle": -170.66106374613054,
+      "currentRadius": 205262316103.0822,
+      "currentVelocity": 25326.75643512837
     }
   },
   {
@@ -365,11 +365,11 @@
       "semiMajorAxis": 57900000000.0,
       "argumentOfPeriapsis": 29.0,
       "direction": 1,
-      "currentTrueAnomaly": -66.26010021881055,
-      "currentPositionAngle": -37.26010044345518,
-      "currentVelocityAngle": -117.64356815432855,
-      "currentRadius": 51442038023.176735,
-      "currentVelocity": 50871.27192013034
+      "currentTrueAnomaly": -66.26172979660234,
+      "currentPositionAngle": -37.261730021246976,
+      "currentVelocityAngle": -117.64503421591542,
+      "currentRadius": 51442285923.100044,
+      "currentVelocity": 50871.05137069405
     }
   },
   {
@@ -442,11 +442,11 @@
       "semiMajorAxis": 384384000.0,
       "argumentOfPeriapsis": 304.0,
       "direction": 1,
-      "currentTrueAnomaly": -157.7127432999075,
-      "currentPositionAngle": 146.28725434519706,
-      "currentVelocityAngle": 57.54625344382922,
-      "currentRadius": 403769544.98226315,
-      "currentVelocity": 956.4222485625702
+      "currentTrueAnomaly": -157.7167013328121,
+      "currentPositionAngle": 146.2832963122924,
+      "currentVelocityAngle": 57.54208519112372,
+      "currentRadius": 403770157.9351268,
+      "currentVelocity": 956.4207195285309
     }
   },
   {
@@ -473,11 +473,11 @@
       "semiMajorAxis": 1276704000.0,
       "argumentOfPeriapsis": 247.0,
       "direction": 1,
-      "currentTrueAnomaly": -55.12003952268102,
-      "currentPositionAngle": -168.12004143603363,
-      "currentVelocityAngle": 115.94438376832682,
-      "currentRadius": 909486873.2802845,
-      "currentVelocity": 742.0800369046772
+      "currentTrueAnomaly": -55.1213623485427,
+      "currentPositionAngle": -168.12136426189534,
+      "currentVelocityAngle": 115.94335643207349,
+      "currentRadius": 909492133.810482,
+      "currentVelocity": 742.0767034731622
     }
   },
   {
@@ -504,9 +504,9 @@
       "semiMajorAxis": 9380000.0,
       "argumentOfPeriapsis": 0.0,
       "direction": 1,
-      "currentTrueAnomaly": 21.15032413424282,
-      "currentPositionAngle": 21.15032413424282,
-      "currentVelocityAngle": -68.84967586575718,
+      "currentTrueAnomaly": 20.775594666854616,
+      "currentPositionAngle": 20.775594666854616,
+      "currentVelocityAngle": -69.2244053331454,
       "currentRadius": 9380000.0,
       "currentVelocity": 2103.0610495778765
     }
@@ -590,9 +590,9 @@
       "semiMajorAxis": 108200000000.0,
       "argumentOfPeriapsis": 0.0,
       "direction": 1,
-      "currentTrueAnomaly": -18.238703533614093,
-      "currentPositionAngle": -18.238703533614093,
-      "currentVelocityAngle": -108.2387035336141,
+      "currentTrueAnomaly": -18.239217456233554,
+      "currentPositionAngle": -18.239217456233554,
+      "currentVelocityAngle": -108.23921745623355,
       "currentRadius": 108200000000.0,
       "currentVelocity": 33270.25958645487
     }

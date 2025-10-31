@@ -2,10 +2,6 @@
   "targetAngle": 0.0,
   "quicksaves": [
     {
-      "name": "Autosave 2025-10-31 01_26_22",
-      "time": "2025-10-31T05:26:22.8177410Z"
-    },
-    {
       "name": "Autosave 2025-10-31 01_36_57",
       "time": "2025-10-31T05:36:57.9408939Z"
     },
@@ -20,11 +16,15 @@
     {
       "name": "Autosave 2025-10-31 03_26_19",
       "time": "2025-10-31T07:26:19.6681880Z"
+    },
+    {
+      "name": "Autosave 2025-10-31 04_31_44",
+      "time": "2025-10-31T08:31:44.8580275Z"
     }
   ],
   "navTarget": null,
   "timewarpSpeed": 1.0,
-  "worldTime": 1035243.3711817486,
+  "worldTime": 1035272.6182303058,
   "sceneName": "World_PC",
   "transferWindowDeltaV": null,
   "missionStatus": null,
@@ -52,9 +52,9 @@
   "timeToPeriapsis": null,
   "inertia": {
     "inertia": 1.18279564,
-    "angularVelocity": 1.01276339e-06,
+    "angularVelocity": -1.08869722e-06,
     "angularDrag": 0.0,
-    "rotation": 4.998818e-05,
+    "rotation": 5.280111e-05,
     "centerOfMass": {
       "x": -0.233333334,
       "y": 0.312666774
