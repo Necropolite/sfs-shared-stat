@@ -24,7 +24,7 @@
   ],
   "navTarget": null,
   "timewarpSpeed": 1.0,
-  "worldTime": 1035216.6028770295,
+  "worldTime": 1035228.1620627677,
   "sceneName": "World_PC",
   "transferWindowDeltaV": null,
   "missionStatus": null,
@@ -52,9 +52,9 @@
   "timeToPeriapsis": null,
   "inertia": {
     "inertia": 1.18279564,
-    "angularVelocity": -3.58020742e-07,
+    "angularVelocity": -1.00969964e-06,
     "angularDrag": 0.0,
-    "rotation": 3.895248e-05,
+    "rotation": 4.055937e-05,
     "centerOfMass": {
       "x": -0.233333334,
       "y": 0.312666774
